@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 26,
-	"supported_formats": { "min_inclusive": 19, "max_inclusive": 26 },
+    "pack_format": 48,
     "description": "Adding compatibility for Oh The Biomes We've Gone wood types to More Variants Mods. This is NOT an expansion, it simply resolves a crafting issue between these mods and BWG."
   }
 }

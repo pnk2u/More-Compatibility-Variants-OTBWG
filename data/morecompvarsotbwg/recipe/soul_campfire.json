@@ -1,0 +1,46 @@
+{
+  "fabric:load_conditions": [
+  {
+	"condition": "fabric:and",
+	"values": [
+		{
+		  "condition": "fabric:all_mods_loaded",
+		  "values": [
+			"nemos-campfires"
+		  ]
+		},
+		{
+		  "condition": "fabric:not",
+		  "value": {
+						"condition": "fabric:all_mods_loaded",
+						"values": [
+						"mstv-base"
+						]
+					}
+		}
+	]
+  }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "campfires",
+  "key": {
+    "#": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "L": {
+      "tag": "morecompvarsotbwg:logs"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " S ",
+    "S#S",
+    "LLL"
+  ],
+  "result": {
+    "id": "minecraft:soul_campfire"
+  }
+}

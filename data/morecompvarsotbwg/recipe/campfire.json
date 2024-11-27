@@ -1,0 +1,46 @@
+{
+  "fabric:load_conditions": [
+  {
+	"condition": "fabric:and",
+	"values": [
+		{
+		  "condition": "fabric:all_mods_loaded",
+		  "values": [
+			"nemos-campfires"
+		  ]
+		},
+		{
+		  "condition": "fabric:not",
+		  "value": {
+						"condition": "fabric:all_mods_loaded",
+						"values": [
+						"mstv-base"
+						]
+					}
+		}
+	]
+  }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "campfires",
+  "key": {
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "L": {
+      "tag": "morecompvarsotbwg:logs"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SCS",
+    "LLL"
+  ],
+  "result": {
+    "id": "minecraft:campfire"
+  }
+}
