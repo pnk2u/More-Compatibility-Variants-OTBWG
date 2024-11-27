@@ -24,6 +24,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "minecraft:smithing_table"
+    "id": "minecraft:smithing_table"
   }
 }

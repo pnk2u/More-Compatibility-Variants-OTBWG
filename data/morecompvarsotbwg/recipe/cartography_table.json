@@ -24,6 +24,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "minecraft:cartography_table"
+    "id": "minecraft:cartography_table"
   }
 }
