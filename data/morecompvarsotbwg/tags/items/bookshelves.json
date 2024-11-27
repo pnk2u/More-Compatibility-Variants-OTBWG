@@ -1,0 +1,18 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmbv"
+      ]
+    }
+  ],
+  "replace": false,
+  "values": [
+    {
+      "id": "#lieonstudio:bookshelves",
+      "required": false
+    },
+    "minecraft:bookshelf"
+  ]
+}

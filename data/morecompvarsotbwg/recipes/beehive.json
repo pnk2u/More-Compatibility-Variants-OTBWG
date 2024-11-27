@@ -1,0 +1,29 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "quad-lolmbhv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "tag": "morecompvarsotbwg:planks"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "HHH",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:beehive"
+  }
+}

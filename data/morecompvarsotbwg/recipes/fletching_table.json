@@ -1,0 +1,30 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmft"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "fletchingtable",
+  "key": {
+    "#": {
+      "tag": "morecompvarsotbwg:planks"
+    },
+    "@": {
+      "item": "minecraft:flint"
+    }
+  },
+  "pattern": [
+    "@@",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:fletching_table"
+  }
+}

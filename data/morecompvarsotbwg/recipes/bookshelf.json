@@ -1,0 +1,28 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmbv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "group": "bookshelf",
+  "key": {
+    "b": {
+      "item": "minecraft:book"
+    },
+    "#": {
+      "tag": "morecompvarsotbwg:planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "bbb",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:bookshelf"
+  }
+}

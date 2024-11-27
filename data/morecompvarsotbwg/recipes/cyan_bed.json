@@ -1,0 +1,28 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "quad-lolmbdv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "bed_from_planks",
+  "key": {
+    "W": {
+      "item": "minecraft:cyan_wool"
+    },
+    "_": {
+      "tag": "morecompvarsotbwg:planks"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "___"
+  ],
+  "result": {
+    "item": "minecraft:cyan_bed"
+  }
+}

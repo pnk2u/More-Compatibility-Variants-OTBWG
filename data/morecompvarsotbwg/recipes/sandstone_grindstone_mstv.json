@@ -1,0 +1,32 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmgv", "mstv-base"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "sandstone_grindstones",
+  "key": {
+    "-": {
+      "tag": "lolmgv:sandstone_grindstone_ingredients"
+    },
+    "P": {
+      "tag": "morecompvarsotbwg:planks"
+    },
+    "|": {
+		"tag": "mstv-base:sticks"
+    }
+  },
+  "pattern": [
+    "|-|",
+    "P P"
+  ],
+  "result": {
+    "count": 1,
+    "item": "lolmgv:oak_sandstone_grindstone"
+  }
+}

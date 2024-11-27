@@ -1,0 +1,30 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmcbv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chiseled_bookshelves",
+  "key": {
+    "#": {
+      "tag": "morecompvarsotbwg:planks"
+    },
+     "-": {
+       "tag": "morecompvarsotbwg:slabs"
+     }
+        },
+   "pattern":  [
+  "###",
+  "---",
+  "###"
+ ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:chiseled_bookshelf"
+  }
+}

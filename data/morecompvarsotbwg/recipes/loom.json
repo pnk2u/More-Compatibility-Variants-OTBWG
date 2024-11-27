@@ -1,0 +1,28 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmlmv"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "morecompvarsotbwg:planks"
+    },
+    "@": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "@@",
+    "##"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:loom"
+  }
+}
