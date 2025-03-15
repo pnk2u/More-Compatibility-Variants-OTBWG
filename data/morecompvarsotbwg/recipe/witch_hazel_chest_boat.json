@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:witch_hazel_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:witch_hazel_planks"
   ],
   "result": {
     "id": "biomeswevegone:witch_hazel_chest_boat"

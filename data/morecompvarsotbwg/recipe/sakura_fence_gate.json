@@ -11,12 +11,8 @@
   "category": "redstone",
   "group": "wooden_fence_gate",
   "key": {
-    "#": {
-      "tag": "mstv-base:sticks"
-    },
-    "W": {
-      "item": "biomeswevegone:sakura_planks"
-    }
+    "#": "#mstv-base:sticks",
+    "W": "biomeswevegone:sakura_planks"
   },
   "pattern": [
     "#W#",

@@ -11,12 +11,8 @@
   "category": "building",
   "group": "bed_from_planks",
   "key": {
-    "W": {
-      "item": "minecraft:pink_wool"
-    },
-    "_": {
-      "tag": "morecompvarsotbwg:planks"
-    }
+    "W": "minecraft:pink_wool",
+    "_": "#morecompvarsotbwg:planks"
   },
   "pattern": [
     "WWW",

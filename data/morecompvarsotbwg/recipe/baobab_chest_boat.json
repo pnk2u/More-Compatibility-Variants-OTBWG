@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:baobab_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:baobab_planks"
   ],
   "result": {
     "id": "biomeswevegone:baobab_chest_boat"

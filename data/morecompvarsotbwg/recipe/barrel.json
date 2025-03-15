@@ -16,12 +16,8 @@
     "#-#"
   ],
   "key": {
-    "#": {
-      "tag": "morecompvarsotbwg:planks"
-    },
-    "-": {
-      "tag": "morecompvarsotbwg:slabs"
-    }
+    "#": "#morecompvarsotbwg:planks",
+    "-": "#morecompvarsotbwg:slabs"
   },
   "result": {
     "count": 1,

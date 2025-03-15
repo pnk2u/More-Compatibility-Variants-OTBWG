@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:cika_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:cika_planks"
   ],
   "result": {
     "id": "biomeswevegone:cika_chest_boat"

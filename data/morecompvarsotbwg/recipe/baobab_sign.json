@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_sign",
   "key": {
-    "#": {
-      "item": "biomeswevegone:baobab_planks"
-    },
-    "X": {
-      "tag": "mstv-base:sticks"
-    }
+    "#": "biomeswevegone:baobab_planks",
+    "X": "#mstv-base:sticks"
   },
   "pattern": [
     "###",

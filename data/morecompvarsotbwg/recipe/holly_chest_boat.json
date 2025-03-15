@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:holly_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:holly_planks"
   ],
   "result": {
     "id": "biomeswevegone:holly_chest_boat"

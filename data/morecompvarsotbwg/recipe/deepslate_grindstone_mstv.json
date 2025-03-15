@@ -11,15 +11,9 @@
   "category": "building",
   "group": "deepslate_grindstones",
   "key": {
-    "-": {
-      "tag": "lolmgv:deepslate_grindstone_ingredients"
-    },
-    "P": {
-      "tag": "morecompvarsotbwg:planks"
-    },
-    "|": {
-		"tag": "mstv-base:sticks"
-    }
+    "-": "#lolmgv:deepslate_grindstone_ingredients",
+    "P": "#morecompvarsotbwg:planks",
+    "|": "#mstv-base:sticks"
   },
   "pattern": [
     "|-|",

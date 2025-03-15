@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_sign",
   "key": {
-    "#": {
-      "item": "biomeswevegone:maple_planks"
-    },
-    "X": {
-      "tag": "mstv-base:sticks"
-    }
+    "#": "biomeswevegone:maple_planks",
+    "X": "#mstv-base:sticks"
   },
   "pattern": [
     "###",

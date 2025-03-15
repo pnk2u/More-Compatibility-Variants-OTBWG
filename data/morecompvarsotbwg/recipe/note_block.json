@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "note_block",
   "key": {
-    "+": {
-      "item": "minecraft:redstone"
-    },
-    "P": {
-      "tag": "morecompvarsotbwg:planks"
-    }
+    "+": "minecraft:redstone",
+    "P": "#morecompvarsotbwg:planks"
   },
   "pattern": [
     "PPP",

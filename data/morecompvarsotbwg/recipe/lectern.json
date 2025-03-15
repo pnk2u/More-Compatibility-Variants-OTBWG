@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "lectern",
   "key": {
-    "#": {
-      "tag": "morecompvarsotbwg:slabs"
-    },
-     "B": {
-       "tag": "morecompvarsotbwg:bookshelves"
-     }
+    "#": "#morecompvarsotbwg:slabs",
+     "B": "#morecompvarsotbwg:bookshelves"
         },
    "pattern":  [
   "###",

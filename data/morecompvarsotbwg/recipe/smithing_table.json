@@ -10,12 +10,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "morecompvarsotbwg:planks"
-    },
-    "@": {
-      "item": "minecraft:iron_ingot"
-    }
+    "#": "#morecompvarsotbwg:planks",
+    "@": "minecraft:iron_ingot"
   },
   "pattern": [
     "@@",

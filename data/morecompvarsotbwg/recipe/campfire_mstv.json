@@ -11,15 +11,9 @@
   "category": "misc",
   "group": "campfires",
   "key": {
-    "C": {
-      "tag": "minecraft:coals"
-    },
-    "L": {
-      "tag": "morecompvarsotbwg:logs"
-    },
-    "S": {
-		"tag": "mstv-base:sticks"
-    }
+    "C": "#minecraft:coals",
+    "L": "#morecompvarsotbwg:logs",
+    "S": "#mstv-base:sticks"
   },
   "pattern": [
     " S ",

@@ -15,9 +15,7 @@
     "#"
   ],
   "key": {
-    "#": {
-      "tag": "morecompvarsotbwg:planks"
-    }
+    "#": "#morecompvarsotbwg:planks"
   },
   "result": {
     "id": "minecraft:stick",

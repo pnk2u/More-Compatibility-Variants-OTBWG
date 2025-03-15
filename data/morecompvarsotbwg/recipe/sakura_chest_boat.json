@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:sakura_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:sakura_planks"
   ],
   "result": {
     "id": "biomeswevegone:sakura_chest_boat"

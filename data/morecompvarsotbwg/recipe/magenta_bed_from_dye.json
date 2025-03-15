@@ -11,12 +11,8 @@
   "category": "building",
   "group": "bed",
   "ingredients": [
-    {
-      "tag": "minecraft:beds"
-    },
-    {
-      "item": "minecraft:magenta_dye"
-    }
+    "#minecraft:beds",
+    "minecraft:magenta_dye"
   ],
   "result": {
     "id": "minecraft:magenta_bed"

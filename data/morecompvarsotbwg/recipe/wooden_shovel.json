@@ -12,12 +12,8 @@
   "category": "equipment",
   "group": "wooden_shovels",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
-      "tag": "morecompvarsotbwg:planks"
-    }
+    "#": "minecraft:stick",
+    "X": "#morecompvarsotbwg:planks"
   },
   "pattern": [
     "X",

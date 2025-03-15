@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:jacaranda_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:jacaranda_planks"
   ],
   "result": {
     "id": "biomeswevegone:jacaranda_chest_boat"

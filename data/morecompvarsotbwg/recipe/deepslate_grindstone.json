@@ -25,15 +25,9 @@
   "category": "building",
   "group": "deepslate_grindstones",
   "key": {
-    "-": {
-      "tag": "lolmgv:deepslate_grindstone_ingredients"
-    },
-    "P": {
-      "tag": "morecompvarsotbwg:planks"
-    },
-    "|": {
-      "item": "minecraft:stick"
-    }
+    "-": "#lolmgv:deepslate_grindstone_ingredients",
+    "P": "#morecompvarsotbwg:planks",
+    "|": "minecraft:stick"
   },
   "pattern": [
     "|-|",

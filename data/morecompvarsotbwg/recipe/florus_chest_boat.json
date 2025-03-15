@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:florus_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:florus_planks"
   ],
   "result": {
     "id": "biomeswevegone:florus_chest_boat"

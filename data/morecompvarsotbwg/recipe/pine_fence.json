@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_fence",
   "key": {
-    "#": {
-      "tag": "mstv-base:sticks"
-    },
-    "W": {
-      "item": "biomeswevegone:pine_planks"
-    }
+    "#": "#mstv-base:sticks",
+    "W": "biomeswevegone:pine_planks"
   },
   "pattern": [
     "W#W",

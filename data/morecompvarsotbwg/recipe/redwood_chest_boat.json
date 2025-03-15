@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:redwood_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:redwood_planks"
   ],
   "result": {
     "id": "biomeswevegone:redwood_chest_boat"

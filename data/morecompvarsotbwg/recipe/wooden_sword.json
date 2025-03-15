@@ -10,12 +10,8 @@
   ],
   "category": "equipment",
   "key": {
-    "#": {
-      "tag": "mstv-base:sticks"
-    },
-    "X": {
-      "tag": "morecompvarsotbwg:planks"
-    }
+    "#": "#mstv-base:sticks",
+    "X": "#morecompvarsotbwg:planks"
   },
   "pattern": [
     "X",

@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:rainbow_eucalyptus_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:rainbow_eucalyptus_planks"
   ],
   "result": {
     "id": "biomeswevegone:rainbow_eucalyptus_chest_boat"

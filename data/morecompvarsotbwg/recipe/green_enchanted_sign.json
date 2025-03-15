@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_sign",
   "key": {
-    "#": {
-      "item": "biomeswevegone:green_enchanted_planks"
-    },
-    "X": {
-      "tag": "mstv-base:sticks"
-    }
+    "#": "biomeswevegone:green_enchanted_planks",
+    "X": "#mstv-base:sticks"
   },
   "pattern": [
     "###",

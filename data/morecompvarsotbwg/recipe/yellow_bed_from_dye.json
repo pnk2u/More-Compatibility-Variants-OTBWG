@@ -11,12 +11,8 @@
   "category": "building",
   "group": "bed",
   "ingredients": [
-    {
-      "tag": "minecraft:beds"
-    },
-    {
-      "item": "minecraft:yellow_dye"
-    }
+    "#minecraft:beds",
+    "minecraft:yellow_dye"
   ],
   "result": {
     "id": "minecraft:yellow_bed"

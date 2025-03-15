@@ -11,15 +11,9 @@
   "category": "building",
   "group": "basalt_grindstones",
   "key": {
-    "-": {
-      "tag": "lolmgv:basalt_grindstone_ingredients"
-    },
-    "P": {
-      "tag": "morecompvarsotbwg:planks"
-    },
-    "|": {
-		"tag": "mstv-base:sticks"
-    }
+    "-": "#lolmgv:basalt_grindstone_ingredients",
+    "P": "#morecompvarsotbwg:planks",
+    "|": "#mstv-base:sticks"
   },
   "pattern": [
     "|-|",

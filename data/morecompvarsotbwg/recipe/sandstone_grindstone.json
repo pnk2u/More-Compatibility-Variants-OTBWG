@@ -25,15 +25,9 @@
   "category": "building",
   "group": "sandstone_grindstones",
   "key": {
-    "-": {
-      "tag": "lolmgv:sandstone_grindstone_ingredients"
-    },
-    "P": {
-      "tag": "morecompvarsotbwg:planks"
-    },
-    "|": {
-      "item": "minecraft:stick"
-    }
+    "-": "#lolmgv:sandstone_grindstone_ingredients",
+    "P": "#morecompvarsotbwg:planks",
+    "|": "minecraft:stick"
   },
   "pattern": [
     "|-|",

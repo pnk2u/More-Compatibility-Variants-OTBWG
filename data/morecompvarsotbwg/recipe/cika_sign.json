@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_sign",
   "key": {
-    "#": {
-      "item": "biomeswevegone:cika_planks"
-    },
-    "X": {
-      "tag": "mstv-base:sticks"
-    }
+    "#": "biomeswevegone:cika_planks",
+    "X": "#mstv-base:sticks"
   },
   "pattern": [
     "###",

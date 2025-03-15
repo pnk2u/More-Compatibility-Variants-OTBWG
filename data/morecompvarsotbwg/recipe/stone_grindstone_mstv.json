@@ -11,15 +11,9 @@
   "category": "building",
   "group": "stone_grindstones",
   "key": {
-    "-": {
-      "item": "minecraft:stone_slab"
-    },
-    "P": {
-      "tag": "morecompvarsotbwg:planks"
-    },
-    "|": {
-		"tag": "mstv-base:sticks"
-    }
+    "-": "minecraft:stone_slab",
+    "P": "#morecompvarsotbwg:planks",
+    "|": "#mstv-base:sticks"
   },
   "pattern": [
     "|-|",

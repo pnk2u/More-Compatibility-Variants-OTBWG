@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:mahogany_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:mahogany_planks"
   ],
   "result": {
     "id": "biomeswevegone:mahogany_chest_boat"

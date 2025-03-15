@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:white_mangrove_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:white_mangrove_planks"
   ],
   "result": {
     "id": "biomeswevegone:white_mangrove_chest_boat"

@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "wooden_fence",
   "key": {
-    "#": {
-      "tag": "mstv-base:sticks"
-    },
-    "W": {
-      "item": "biomeswevegone:white_mangrove_planks"
-    }
+    "#": "#mstv-base:sticks",
+    "W": "biomeswevegone:white_mangrove_planks"
   },
   "pattern": [
     "W#W",

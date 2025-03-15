@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:zelkova_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:zelkova_planks"
   ],
   "result": {
     "id": "biomeswevegone:zelkova_chest_boat"

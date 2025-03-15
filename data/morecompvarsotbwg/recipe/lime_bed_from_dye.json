@@ -11,12 +11,8 @@
   "category": "building",
   "group": "bed",
   "ingredients": [
-    {
-      "tag": "minecraft:beds"
-    },
-    {
-      "item": "minecraft:lime_dye"
-    }
+    "#minecraft:beds",
+    "minecraft:lime_dye"
   ],
   "result": {
     "id": "minecraft:lime_bed"

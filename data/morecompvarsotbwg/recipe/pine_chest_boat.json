@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:pine_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:pine_planks"
   ],
   "result": {
     "id": "biomeswevegone:pine_chest_boat"

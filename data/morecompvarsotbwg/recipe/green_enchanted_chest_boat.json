@@ -11,12 +11,8 @@
   "category": "misc",
   "group": "chest_boat",
   "ingredients": [
-    {
-      "tag": "morecompvarsotbwg:chests"
-    },
-    {
-      "item": "biomeswevegone:green_enchanted_planks"
-    }
+    "#morecompvarsotbwg:chests",
+    "biomeswevegone:green_enchanted_planks"
   ],
   "result": {
     "id": "biomeswevegone:green_enchanted_chest_boat"
