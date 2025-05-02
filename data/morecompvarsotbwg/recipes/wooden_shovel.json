@@ -8,12 +8,11 @@
       ]
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "group": "wooden_shovels",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "tag": "mstv-base:sticks"
     },
     "X": {
       "tag": "morecompvarsotbwg:planks"
