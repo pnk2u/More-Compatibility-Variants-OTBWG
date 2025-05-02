@@ -9,6 +9,7 @@
     }
   ],
   "category": "equipment",
+  "group": "wooden_swords",
   "key": {
     "#": "#mstv-base:sticks",
     "X": "#morecompvarsotbwg:planks"
