@@ -1,25 +1,11 @@
 {
   "fabric:load_conditions": [
-  {
-    "condition": "fabric:and",
-	"values": [
-		{
-		  "condition": "fabric:all_mods_loaded",
-		  "values": [
-			"lolmcv"
-		  ]
-		},
-		{
-		  "condition": "fabric:not",
-		  "value": {
-						"condition": "fabric:all_mods_loaded",
-						"values": [
-						"lolmcvbop"
-						]
-					}
-		}
-	]
-  }
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmcvbop"
+      ]
+    }
   ],
   "type": "minecraft:crafting_shaped",
   "group": "chest",
