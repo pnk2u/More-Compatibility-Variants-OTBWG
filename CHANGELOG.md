@@ -1,4 +1,4 @@
-<!--publish=false-->
+<!--publish=true-->
 ### 1.0.4:
 - Fix Chest recipe
 - Add _Neoforge_ support
