@@ -8,6 +8,7 @@
       ]
     }
   ],
+  "neoforge:conditions":[{"type":"neoforge:mod_loaded","modid":"lolmblv"}],
   "type": "minecraft:crafting_shaped",
   "group": "barrel",
   "pattern": [

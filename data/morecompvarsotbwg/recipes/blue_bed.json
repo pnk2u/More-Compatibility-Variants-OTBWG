@@ -7,6 +7,7 @@
       ]
     }
   ],
+  "neoforge:conditions":[{"type":"neoforge:mod_loaded","modid":"quad_lolmbdv"}],
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "group": "bed_from_planks",
