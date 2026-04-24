@@ -1,3 +1,19 @@
+<a name="1.0.4"></a>
+### 1.0.4:
+- Fix Chest recipe
+- Add _Neoforge_ support
+
+
+<br></br>
+<sub>License update to [`CC-BY-NC-SA-4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/) (previously [`MIT`](https://choosealicense.com/licenses/mit))</sub>
+
+<h2><sub><sub><sup><ins>Download 1.0.4 + 1.21.4(-11)</ins>:</sup>&#x200A;
+<a title="Download (Modrinth):&#10;More Compatibility Variants (OTBWG) 1.0.4 + 1.21.4(-11)" href="https://www.modrinth.com/mod/jwSzLWcy/version/ELXWkHhB">
+<img width=26 src="https://img.shields.io/badge/-%20-%23032a?style=flat&logo=modrinth"></a>&#x200A;
+<a title="Download (Curseforge):&#10;1.0.4 + 1.21.4(-11) - More Compatibility Variants (OTBWG)" href="https://www.curseforge.com/minecraft/texture-packs/more-compatibility-variants-fot/files/7977954">
+<img width=26 src="https://img.shields.io/badge/--%23302a?style=flat&logo=curseforge"></a>
+</sub></sub></h2>
+
 <a name="1.0.3"></a>
 ### 1.0.3:
 - Fix _Chest_ recipe fix not working when using the MCV add-on "[More Chests Variants - Biomes O' Plenty](https://modrinth.com/mod/mcv-biomes-o-plenty)"
