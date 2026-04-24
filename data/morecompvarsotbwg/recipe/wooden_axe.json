@@ -8,6 +8,7 @@
       ]
     }
   ],
+  "neoforge:conditions":[{"type":"neoforge:and","values":[{"type":"neoforge:mod_loaded","modid":"mstv_base"},{"type":"neoforge:mod_loaded","modid":"mstv_mtoolv"}]}],
   "category": "equipment",
   "group": "wooden_axes",
   "key": {
